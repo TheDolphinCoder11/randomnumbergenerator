@@ -1,0 +1,3 @@
+
+Random Number Generator
+This Random Number Generator (RNG) is a versatile tool designed to generate random numbers within specified ranges. Whether you're a developer seeking a reliable source of randomness for applications or a user in need of random values for various purposes, this RNG offers a simple yet powerful solution. With support for both integer and floating-point numbers, customizable ranges, seed-based reproducibility, and a user-friendly command-line interface, this RNG is suitable for a wide range of use cases. It's cross-platform, making it compatible with major operating systems, including Windows, macOS, and Linux.
